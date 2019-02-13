@@ -1,0 +1,9 @@
+.item-pic {
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+}
+
+.itemContainer {
+    margin-top: 5em;
+}
