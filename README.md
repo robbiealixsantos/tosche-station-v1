@@ -3,8 +3,6 @@ Tosche Station [![Netlify Status](https://api.netlify.com/api/v1/badges/c70120d0
 
 A quick crash course project in the Star Wars Universe using React. Future features include a sample store front, back end, and Twilio Contact Center integrations
 
-=====================
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
